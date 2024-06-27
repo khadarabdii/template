@@ -1,0 +1,196 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+   
+}
+
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #fdd369;
+    color:black;
+    margin-top: -30px;
+    
+}
+
+.main ul,li{
+    display: flex;
+    gap: 15px;
+    font-size: 15px;
+    
+    font-weight: bold;
+    padding-top: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.main ul:hover{
+    color: aqua;
+}
+
+.header h2{
+    font-size: 35px;
+    color: lightseagreen;
+    text-transform: capitalize;
+    font-size: bold;
+    padding-top: 30px;
+    
+
+}
+button{
+    margin-top: 15px;
+    width: 100px;
+    height: 30px;
+    border: none;
+    background-color: rgb(25, 118, 194);
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+button:hover{
+    background-color: lightseagreen;
+}
+
+.menus{
+    width:screen;
+    height: screen;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row-reverse;
+    align-items: center;
+    padding-top: 80px;
+    background-color: rgb(9, 111, 194);
+    
+}
+
+.image img{
+    width: 250px;
+    height: 250px;
+    border-radius: 70px;
+}
+
+.text{
+    color: white;
+    column-gap: px;
+}
+
+.text h1{
+    text-transform: capitalize;
+}
+
+button{
+    background-color: rgb(19, 18, 18);
+    color: white;
+}
+
+button:hover{
+    background-color: lightseagreen;
+}
+
+.all{
+    columns: 3;
+    column-gap: 20px;
+    margin-top: 30px;
+    
+    
+
+}
+
+.khadar{
+    width: 300px;
+    height: 200px;
+    background-color:#fdd369;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 30px;
+
+}
+.khadar:hover{
+    background-color: aqua;
+    
+}
+.abdi{
+    width: 300px;
+    height: 200px;
+    background-color: #fdd369;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+
+}
+.abdi:hover{
+    background-color: aqua;
+    
+}
+.ahmed{
+    width: 300px;
+    height: 200px;
+    background-color: #fdd369;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+.ahmed:hover{
+    background-color: aqua;
+    
+}
+.ciro{
+    width: 300px;
+    height: 200px;
+    background-color: #fdd369;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+.ciro:hover{
+    background-color: aqua;
+    
+}
+.qays{
+    width: 300px;
+    height: 200px;
+    background-color: #fdd369;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+.qays:hover{
+    background-color: aqua;
+    
+}
+.saa{
+    width: 300px;
+    height: 200px;
+    background-color: #fdd369;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+.saa:hover{
+    background-color: aqua;
+    
+}
